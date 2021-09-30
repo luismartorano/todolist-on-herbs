@@ -1,9 +1,7 @@
 name: CI build
-
 on:
   push:
     branches: [master]
-
 jobs:
   build:
 
